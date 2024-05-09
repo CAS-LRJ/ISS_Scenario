@@ -1,0 +1,134 @@
+{
+  "available_scenarios": [
+    {
+      "Town05": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35.1,
+                "y": 130,
+                "yaw": -90,
+                "z": 0
+              },
+              "_actor_vel": "3",
+              "_trigger_distance": "20"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35.1,
+                "y": 50,
+                "yaw": -90,
+                "z": 0
+              },
+              "_actor_vel": "5",
+              "_trigger_distance": "20"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -20.8,
+                "y": -91.4,
+                "yaw": 180,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 55.5,
+                "y": -91.2,
+                "yaw": 180,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -131.2,
+                "y": -120,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -131,
+                "y": -30,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -131,
+                "y": 61,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -213,
+                "y": 3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -152,
+                "y": 3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -72,
+                "y": 3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 2.7,
+                "y": 3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 75,
+                "y": 2,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -191.4,
+                "y": -27,
+                "yaw": 90,
+                "z": 1.1
+              }
+            }
+          ],
+          "scenario_type": "Scenario26"
+        }
+      ]
+    }
+  ]
+}

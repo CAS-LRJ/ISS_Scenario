@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="PedestrianCrossing" type="PedestrianCrossing" town="Town05">
+        <ego_vehicle x="35" y="130" z="0" yaw="-90" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="PedestrianCrossing2" type="PedestrianCrossing" town="Town01">
+        <ego_vehicle x="180" y="129" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="PedestrianCrossing3" type="PedestrianCrossing" town="Town01">
+        <ego_vehicle x="339" y="45.4" z="0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="PedestrianCrossing4" type="PedestrianCrossing" town="Town05">
+        <ego_vehicle x="-14.6" y="84.6" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+    <scenario name="LeftPedestrianCrossing" type="LeftPedestrianCrossing" town="Town05">
+        <ego_vehicle x="35" y="130" z="0" yaw="-90" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="LeftPedestrianCrossing1" type="LeftPedestrianCrossing" town="Town01">
+        <ego_vehicle x="180" y="129" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="LeftPedestrianCrossing2" type="LeftPedestrianCrossing" town="Town03">
+        <ego_vehicle x="6.8" y="-152.7" z="0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="LeftPedestrianCrossing3" type="LeftPedestrianCrossing" town="Town01">
+        <ego_vehicle x="339" y="45.4" z="0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+</scenarios>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<scenarios>
+
+    <scenario name="LVehicleStraightRightVehicleTLWithPedCrossL1" type="LVehicleStraightRightVehicleTLWithPedCrossL" town="Town05">
+        <ego_vehicle x="-145.5" y="-1" z="0.3" yaw="180" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-215.4" y="3.0" z="0.3" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="LVehicleStraightRightVehicleTLWithPedCrossL2" type="LVehicleStraightRightVehicleTLWithPedCrossL" town="Town03">
+        <ego_vehicle x="-74.6" y="-99.8" z="1" yaw="-90" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+    <scenario name="LVehicleStraightRightVehicleTLWithPedCrossL3" type="LVehicleStraightRightVehicleTLWithPedCrossL" town="Town04">
+        <ego_vehicle x="220" y="-169.5" z="1" yaw="0" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+    <scenario name="LVehicleStraightRightVehicleTLWithPedCrossL4" type="LVehicleStraightRightVehicleTLWithPedCrossL" town="Town04">
+        <ego_vehicle x="216.9" y="-246.1" z="1" yaw="0" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+
+</scenarios>

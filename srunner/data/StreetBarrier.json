@@ -1,0 +1,135 @@
+{
+    "available_scenarios": [
+        {
+            "Town05": [
+                {
+                    "available_event_configurations": [
+
+                          {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": 35,
+                                    "y": 65,
+                                    "yaw": -90,
+                                    "z": 0
+                                },
+                                "_start_distance": "20",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+                          }
+
+                    ],
+                      "scenario_type": "Scenario21"
+
+                }
+            ],
+            "Town01": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": 300,
+                                    "y": 129,
+                                    "yaw": 180,
+                                    "z": 0
+                                },
+                                "_start_distance": "20",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+
+                          }
+
+                    ],
+                      "scenario_type": "Scenario21"
+
+                }
+            ],
+            "Town03": [
+                  {
+                      "available_event_configurations": [
+                            {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": -88.5,
+                                    "y": -90,
+                                    "yaw": 90,
+                                    "z": 0
+                                },
+                                "_start_distance": "20",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+
+                            }
+
+                      ],
+                        "scenario_type": "Scenario21"
+
+                  }
+            ],
+            "Town06": [
+                  {
+                      "available_event_configurations": [
+                            {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": 8.4,
+                                    "y": 220,
+                                    "yaw": -90,
+                                    "z": 0
+                                },
+                                "_start_distance": "20",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+
+                            }
+
+                      ],
+                        "scenario_type": "Scenario21"
+
+                  }
+            ]
+
+        }
+    ]
+}

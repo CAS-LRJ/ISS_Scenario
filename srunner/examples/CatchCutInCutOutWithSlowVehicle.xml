@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<scenarios>
+     <scenario name="CatchCutInCutOutWithSlowVehicle1" type="CatchCutInCutOutWithSlowVehicle" town="Town06">
+        <ego_vehicle x="123.1" y="247.9" z="2.5" yaw="0" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="CatchCutInCutOutWithSlowVehicle2" type="CatchCutInCutOutWithSlowVehicle" town="Town05">
+        <ego_vehicle x="35" y="175" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+
+</scenarios>

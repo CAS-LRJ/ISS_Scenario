@@ -1,0 +1,698 @@
+{
+  "available_scenarios": [
+    {
+      "Town03": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "60",
+                    "y": "-133.8",
+                    "yaw": "0",
+                    "z": "7"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 111.1,
+                "y": -135.8,
+                "yaw": 180,
+                "z": 8
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-22.3",
+                    "y": "-135",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 30.2,
+                "y": -137.6,
+                "yaw": 180,
+                "z": 1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-77.9",
+                    "y": "155.5",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -84.7,
+                "y": 102,
+                "yaw": 90,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "58.9",
+                    "y": "-196.1",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 111.2,
+                "y": -201.8,
+                "yaw": 180,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-23.8",
+                    "y": "-197.9",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 37.3,
+                "y": -203.8,
+                "yaw": 180,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-78",
+                    "y": "-118",
+                    "yaw": "-90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -84.8,
+                "y": -161.5,
+                "yaw": 90,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ],
+      "Town04": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "235",
+                    "y": "-245.9",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 279.5,
+                "y": -249.9,
+                "yaw": 180,
+                "z": 1.1
+              },
+              "_start_distance": "15",
+              "_actor_vel": "20"
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "258.3",
+                    "y": "-152.7",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 254.8,
+                "y": -195.7,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "186.5",
+                    "y": "-244.7",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 223.5,
+                "y": -249.6,
+                "yaw": 180,
+                "z": 1.1
+              },
+              "_start_distance": "15",
+              "_actor_vel": "20"
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "202",
+                    "y": "-161.1",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 199.2,
+                "y": -196,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "275.5",
+                    "y": "-172.8",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 235.4,
+                "y": -169.3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "255",
+                    "y": "-269.2",
+                    "yaw": "90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 258.6,
+                "y": -222.9,
+                "yaw": 270,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "330",
+                    "y": "-250.3",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 292.8,
+                "y": -246,
+                "yaw": 0,
+                "z": 1.1
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ],
+      "Town05": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "28.1",
+                    "y": "-23.7",
+                    "yaw": "90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 31.6,
+                "y": 27.8,
+                "yaw": -90,
+                "z": 1.1
+              },
+              "_start_distance": "5",
+              "_actor_vel": "5"
+
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-72.8",
+                    "y": "2.5",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -22.2,
+                "y": -0.9,
+                "yaw": 180,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-47.4",
+                    "y": "114.6",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -50.5,
+                "y": 57,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "54.1",
+                    "y": "88.6",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 0.4,
+                "y": 91.6,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "30.5",
+                    "y": "-113.2",
+                    "yaw": "90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 32.5,
+                "y": -59.9,
+                "yaw": -90,
+                "z": 1.1
+              },
+              "_start_distance": "30",
+              "_actor_vel": "20"
+
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-152.2",
+                    "y": "-88.2",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -94.5,
+                "y": -91.2,
+                "yaw": 180,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-124.3",
+                    "y": "25.6",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -128.1,
+                "y": -31.2,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-26.2",
+                    "y": "-0.7",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -75.1,
+                "y": 3,
+                "yaw": 0,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-215.3",
+                    "y": "-88.1",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -155,
+                "y": -91.6,
+                "yaw": 180,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-188",
+                    "y": "115.9",
+                    "yaw": "270",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -191.4,
+                "y": 63.1,
+                "yaw": 90,
+                "z": 1.1
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-99.3",
+                    "y": "88.1",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -154.5,
+                "y": 91.4,
+                "yaw": 0,
+                "z": 1.1
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ],
+      "Town06": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "5.5",
+                    "y": "266.8",
+                    "yaw": "-90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -6.6,
+                "y": 217.4,
+                "yaw": 90,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ],
+      "Town07": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-1.8",
+                    "y": "16.9",
+                    "yaw": "-90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -5.5,
+                "y": -28.8,
+                "yaw": 88,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-115.1",
+                    "y": "52.6",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -79,
+                "y": 54.3,
+                "yaw": 180,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-130",
+                    "y": "-36.4",
+                    "yaw": "180",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -169.9,
+                "y": -33.8,
+                "yaw": 0,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ],
+      "Town10HD": [
+        {
+          "available_event_configurations": [
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-78",
+                    "y": "27.9",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -17.7,
+                "y": 13,
+                "yaw": 180,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-74.8",
+                    "y": "-58.1",
+                    "yaw": "0",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -14.7,
+                "y": -64.7,
+                "yaw": 180,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "-107.1",
+                    "y": "50.9",
+                    "yaw": "-90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": -110.4,
+                "y": -11.6,
+                "yaw": 90,
+                "z": 0
+              }
+            },
+            {
+              "other_actors": {
+                "left": [
+                  {
+                    "pitch": "0.0",
+                    "x": "99.5",
+                    "y": "-14.1",
+                    "yaw": "90",
+                    "z": "0"
+                  }
+                ]
+              },
+              "transform": {
+                "pitch": "0",
+                "x": 105.9,
+                "y": 55.3,
+                "yaw": -90,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario48"
+        }
+      ]
+    }
+  ]
+}

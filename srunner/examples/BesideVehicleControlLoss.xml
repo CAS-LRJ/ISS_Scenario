@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scenarios>
+
+    <scenario name="BesideVehicleControlLoss4" type="BesideVehicleControlLoss" town="Town04">
+        <ego_vehicle x="-45" y="37.2" z="11" yaw="0" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+    <scenario name="BesideVehicleControlLoss5" type="BesideVehicleControlLoss" town="Town05">
+        <ego_vehicle x="90.9" y="-66" z="0" yaw="67" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+</scenarios>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<routes>
+	<route id="2" town="Town05">
+		<waypoint x="35.1" y="180" z="1.1" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="35.08445358276367" y="69.111328125" z="1.52587890625e-05" pitch="0.0" roll="0.0" yaw="-89.97711181640625" />
+		<waypoint x="35.103919982910156" y="25.389137268066406" z="1.52587890625e-05" pitch="360.0" roll="0.0" yaw="270.02288818359375" />
+		<waypoint x="35.08445358276367" y="5" z="1.52587890625e-05" pitch="0.0" roll="0.0" yaw="-89.97711181640625" />
+		<waypoint x="35.103919982910156" y="-30" z="1.52587890625e-05" pitch="360.0" roll="0.0" yaw="270.02288818359375"/>
+		<waypoint x="35.103919982910156" y="-68" z="1.52587890625e-05" pitch="360.0" roll="0.0" yaw="270.02288818359375"/>
+		<waypoint x="35.103919982910156" y="-56" z="1.52587890625e-05" pitch="360.0" roll="0.0" yaw="270.02288818359375"/>
+		<waypoint x="35.103919982910156" y="-66.7" z="1.52587890625e-05" pitch="360.0" roll="0.0" yaw="270.02288818359375"/>
+	</route>
+	<route id="3" town="Town05">
+		<waypoint x="55.5" y="-91.2" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="9.1" y="-91.2" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="-22.7" y="-91.2" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="-78.9" y="-91.2" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="-98.4" y="-91.2" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+	</route>
+	<route id="4" town="Town05">
+		<waypoint x="-131.2" y="-125" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-131.2" y="-115.4" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-131.2" y="-28" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-131.2" y="61" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-131.2" y="110" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+	</route>
+	<route id="5" town="Town05">
+		<waypoint x="-213" y="137" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="-149" y="3" z="1.1" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="-73" y="3" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="4.8" y="3" z="1.1" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="79" y="1.9" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="120" y="1.9" z="1.1" pitch="0.0" roll="0.0" yaw="180" />
+	</route>
+
+	<route id="6" town="Town03">
+		<waypoint x="73.8" y="-139.4" z="8" pitch="0.0" roll="0.0" yaw="184" />
+		<waypoint x="30.9" y="-139.4" z="1.1" pitch="0.0" roll="0.0" yaw="184" />
+		<waypoint x="26.7" y="-139.4" z="1.1" pitch="0.0" roll="0.0" yaw="184" />
+		<waypoint x="4.6" y="-137.4" z="1.1" pitch="0.0" roll="0.0" yaw="184" />
+		<waypoint x="-10" y="-137.4" z="1.1" pitch="0.0" roll="0.0" yaw="184" />
+	</route>
+	<route id="7" town="Town03">
+		<waypoint x="-84.6" y="-160.1" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-84.6" y="-102" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-84.6" y="-26.8" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-84.6" y="26.4" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-84.6" y="103.5" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="-84.6" y="149" z="0" pitch="0.0" roll="0.0" yaw="90" />
+	</route>
+	<route id="8" town="Town03">
+		<waypoint x="-116.8" y="140.1" z="0" pitch="0.0" roll="0.0" yaw="0" />
+        <waypoint x="-26.6" y="138.5" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="54.4" y="133" z="0" pitch="0.0" roll="0.0" yaw="0" />
+	</route>
+
+	<route id="9" town="Town04">
+		<waypoint x="183" y="-245.6" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="234" y="-245.6" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="296" y="-245.6" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="331" y="-245.6" z="0" pitch="0.0" roll="0.0" yaw="0" />
+	</route>
+	<route id="10" town="Town04">
+		<waypoint x="311.8" y="-269" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="311.4" y="-193" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="311.4" y="-139.8" z="0" pitch="0.0" roll="0.0" yaw="90" />
+		<waypoint x="311.4" y="-96.5" z="0" pitch="0.0" roll="0.0" yaw="90" />
+	</route>
+	<route id="11" town="Town04">
+		<waypoint x="279" y="-172.6" z="0" pitch="0.0" roll="0.0" yaw="180" />
+        <waypoint x="218" y="-172.6" z="0" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="170" y="-172.6" z="0" pitch="0.0" roll="0.0" yaw="180" />
+		<waypoint x="120" y="-172.6" z="0" pitch="0.0" roll="0.0" yaw="180" />
+	</route>
+
+	<route id="12" town="Town06">
+		<waypoint x="9.3" y="291.4" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="9.3" y="273.3" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="8.4" y="219.6" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="7.9" y="169.6" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="5.5" y="80.2" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="6" y="13.4" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="6.2" y="-57.1" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+		<waypoint x="6.2" y="-70" z="0" pitch="0.0" roll="0.0" yaw="-90" />
+	</route>
+
+	<route id="13" town="Town07">
+		<waypoint x="-4.8" y="-38" z="0" pitch="0.0" roll="0.0" yaw="92" />
+		<waypoint x="-4.8" y="-29.8" z="0" pitch="0.0" roll="0.0" yaw="92" />
+		<waypoint x="-5.2" y="-22" z="0" pitch="0.0" roll="0.0" yaw="92" />
+		<waypoint x="-5.7" y="34.5" z="0" pitch="0.0" roll="0.0" yaw="92" />
+		<waypoint x="-26.9" y="57.5" z="0" pitch="0.0" roll="0.0" yaw="186" />
+		<waypoint x="-81.4" y="53.9" z="0" pitch="0.0" roll="0.0" yaw="183" />
+		<waypoint x="-90" y="53.9" z="0" pitch="0.0" roll="0.0" yaw="183" />
+		<waypoint x="-100" y="48.1" z="0" pitch="0.0" roll="0.0" yaw="183" />
+		<waypoint x="-111.3" y="48.1" z="0" pitch="0.0" roll="0.0" yaw="183" />
+		<waypoint x="-132" y="48.1" z="0" pitch="0.0" roll="0.0" yaw="183" />
+	</route>
+
+	<route id="14" town="Town10HD">
+		<waypoint x="-87" y="27.8" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="-76" y="27.8" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="0.4" y="28" z="0" pitch="0.0" roll="0.0" yaw="0" />
+		<waypoint x="65.3" y="28" z="0" pitch="0.0" roll="0.0" yaw="0" />
+	</route>
+
+</routes>

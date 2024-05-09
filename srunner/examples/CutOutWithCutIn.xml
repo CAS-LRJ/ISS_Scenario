@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="CutOutWithCutIn1" type="CutOutWithCutIn" town="Town04">
+        <ego_vehicle x="-80.3" y="400.4" z="0" pitch="0.0" roll="0.0" yaw="-36" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="CutOutWithCutIn2" type="CutOutWithCutIn" town="Town06">
+        <ego_vehicle x="8.4" y="211.5" z="0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+    <scenario name="CutOutWithCutIn3" type="CutOutWithCutIn" town="Town06">
+        <ego_vehicle x="8.4" y="210" z="2.5" yaw="270" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="CutOutWithCutIn4" type="CutOutWithCutIn" town="Town05">
+        <ego_vehicle x="35.1" y="175" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>

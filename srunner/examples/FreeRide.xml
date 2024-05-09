@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="FreeRide_1" type="FreeRide" town="Town01">
+        <ego_vehicle x="312" y="129" z="0" yaw="180" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+
+    <scenario name="FreeRide_1_1" type="FreeRide" town="Town01">
+        <ego_vehicle x="308.5" y="199.1" z="0" pitch="0.0" roll="0.0" yaw="0" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_2" type="FreeRide" town="Town02">
+        <ego_vehicle x="212" y="98" z="0" yaw="90" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_3" type="FreeRide" town="Town03">
+        <ego_vehicle x="10" y="-137" z="0" yaw="180" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_3_1" type="FreeRide" town="Town03">
+        <ego_vehicle x="-88" y="86" z="1" yaw="90" model="vehicle.lincoln.mkz2017" />
+
+    </scenario>
+    <scenario name="FreeRide_4" type="FreeRide" town="Town04">
+        <ego_vehicle x="269" y="-246" z="0" yaw="0" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_4_1" type="FreeRide" town="Town04">
+        <ego_vehicle x="16.1" y="138.5" z="0" yaw="-90" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_4_2" type="FreeRide" town="Town04">
+        <ego_vehicle x="47" y="140.8" z="0" yaw="209" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_4_3" type="FreeRide" town="Town04">
+        <ego_vehicle x="-53.1" y="378.9" z="0" pitch="0.0" roll="0.0" yaw="-42" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_4_4" type="FreeRide" town="Town04">
+        <ego_vehicle x="203.6" y="-229.3" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="MultiEgo_1" type="FreeRide" town="Town01">
+        <ego_vehicle x="270" y="129" z="0" yaw="180" model="vehicle.lincoln.mkz2017" rolename="hero"/>
+        <ego_vehicle x="100" y="133" z="0" yaw="0" model="vehicle.tesla.model3" rolename="hero2"/>
+    </scenario>
+    <scenario name="MultiEgo_2" type="FreeRide" town="Town03">
+        <ego_vehicle x="207" y="59" z="0" yaw="180" model="vehicle.lincoln.mkz2017" rolename="hero"/>
+        <ego_vehicle x="237" y="-95.0754252474" z="0" yaw="90" model="vehicle.tesla.model3" rolename="hero2"/>
+    </scenario>
+    <scenario name="FreeRide_5" type="FreeRide" town="Town05">
+        <ego_vehicle x="35" y="175" z="0" yaw="270" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide5" type="FreeRide" town="Town05">
+        <ego_vehicle x="-27.4" y="-91.4" z="0" yaw="180" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide3" type="FreeRide" town="Town03">
+        <ego_vehicle x="-116.8" y="140.1" z="0" pitch="0.0" roll="0.0" yaw="0" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_6" type="FreeRide" town="Town06">
+        <ego_vehicle x="8.4" y="219" z="0" yaw="-90" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_7" type="FreeRide" town="Town07">
+        <ego_vehicle x="-50" y="54.3" z="0" pitch="0.0" roll="0.0" yaw="180" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+    <scenario name="FreeRide_10" type="FreeRide" town="Town10HD">
+        <ego_vehicle x="-17.7" y="13" z="0" pitch="0.0" roll="0.0" yaw="180" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+</scenarios>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="OppositeLeftTurningVehicles1" type="OppositeLeftTurningVehicles" town="Town03">
+        <ego_vehicle x="-133.7" y="137.4" z="0.2" yaw="0" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-53.4" y="131.7" z="0.0" yaw="180" model="vehicle.tesla.model3" />
+     </scenario>
+
+    <scenario name="OppositeLeftTurningVehicles2" type="OppositeLeftTurningVehicles" town="Town04">
+        <ego_vehicle x="311.4" y="-190" z="0.3" yaw="90" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="314.5" y="-146.1" z="0.3" yaw="-90" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles3" type="OppositeLeftTurningVehicles" town="Town04">
+        <ego_vehicle x="274.1" y="-246.2" z="0.3" yaw="0" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="338.1" y="-250.3" z="0.3" yaw="-176" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles4" type="OppositeLeftTurningVehicles" town="Town05">
+        <ego_vehicle x="-145.5" y="-1" z="0.3" yaw="180" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-215.4" y="3.0" z="0.3" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles5" type="OppositeLeftTurningVehicles" town="Town05">
+        <ego_vehicle x="-76.5" y="-0.8" z="0.3" yaw="180" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-153.6" y="3.0" z="0.3" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles6" type="OppositeLeftTurningVehicles" town="Town05">
+        <ego_vehicle x="76.4" y="83" z="0.3" yaw="157" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="2.1" y="91.6" z="0.3" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles7" type="OppositeLeftTurningVehicles" town="Town03">
+        <ego_vehicle x="-50.2" y="-139.4" z="0" pitch="0.0" roll="0.0" yaw="180" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-78" y="-118" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles8" type="OppositeLeftTurningVehicles" town="Town05">
+        <ego_vehicle x="31.5" y="120" z="0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+    <scenario name="OppositeLeftTurningVehicles9" type="OppositeLeftTurningVehicles" town="Town03">
+        <ego_vehicle x="-88" y="86" z="0.3" yaw="90" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-215.4" y="3.0" z="0.3" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+</scenarios>

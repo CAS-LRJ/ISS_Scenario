@@ -1,0 +1,34 @@
+{
+    "available_scenarios": [
+        {
+            "Town01": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": 300,
+                                    "y": 129,
+                                    "yaw": 180,
+                                    "z": 0
+                                },
+                                "_start_distance": "20",
+                                "_start_distance2": "45",
+                                "_start_distance3": "70",
+                                "_actor_vel": "5",
+                                "_trigger_distance": "15",
+                                "_brake": "1.0",
+                                "_new_steer_noise": "-0.1",
+                                "_new_throttle_noise": "1.0"
+                          }
+
+                    ],
+                      "scenario_type": "Scenario42"
+
+                }
+            ]
+
+        }
+    ]
+}

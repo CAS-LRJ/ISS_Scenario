@@ -1,0 +1,148 @@
+{
+    "available_scenarios": [
+        {
+            "Town05": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 35,
+                                  "y": 70,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "20",
+                              "_actor_vel": "4",
+                              "_trigger_distance": "20",
+                              "_brake": "1.0",
+                              "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+                          }
+
+
+                    ],
+                      "scenario_type": "Scenario64"
+
+                }
+            ],
+            "Town04": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": -13.4,
+                                  "y": -160,
+                                  "yaw": 90,
+                                  "z": 0
+                              },
+                              "_start_distance": "20",
+                              "_start_distance2": "40",
+                              "_actor_vel": "5",
+                              "_actor_vel2": "3",
+                              "_trigger_distance": "50",
+                              "_brake": "1.0",
+                              "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+                          }
+
+                    ],
+                      "scenario_type": "Scenario64"
+
+                }
+            ],
+            "Town03": [
+                  {
+                      "available_event_configurations": [
+                            {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": -88.5,
+                                    "y": -90,
+                                    "yaw": 90,
+                                    "z": 0
+                                },
+                                "_start_distance": "30",
+                                "_actor_vel": "4",
+                                "_trigger_distance": "15",
+                                "_brake": "1.0",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+                            }
+
+                      ],
+                        "scenario_type": "Scenario64"
+
+                  }
+            ],
+            "Town06": [
+                  {
+                      "available_event_configurations": [
+                            {
+
+                                "transform": {
+                                    "pitch": "0",
+                                    "x": 123.1,
+                                    "y": 247.9,
+                                    "yaw": 0,
+                                    "z": 0
+                                },
+                                "_start_distance": "30",
+                                "_start_distance2": "60",
+                                "_actor_vel": "5",
+                                "_actor_vel2": "3",
+                                "_trigger_distance": "50",
+                                "_brake": "1.0",
+                                "weather": {
+                                  "sun_altitude_angle": "50",
+                                  "precipitation": "50",
+                                  "wind_intensity": "0",
+                                  "sun_azimuth_angle": "0",
+                                  "fog_distance": "0",
+                                  "cloudiness": "30",
+                                  "fog_density": "30",
+                                  "wetness": "10",
+                                  "precipitation_deposits": "20"
+                                }
+                            }
+
+                      ],
+                        "scenario_type": "Scenario64"
+
+                  }
+            ]
+
+        }
+    ]
+}

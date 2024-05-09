@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<scenarios>
+     <scenario name="FellowVehicleStopGo" type="FellowVehicleStopGo" town="Town01">
+        <ego_vehicle x="271.6" y="129" z="0" yaw="180" pitch="0.0" roll="0.0"  model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>

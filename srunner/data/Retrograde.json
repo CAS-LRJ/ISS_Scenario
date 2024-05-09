@@ -1,0 +1,65 @@
+{
+  "available_scenarios": [
+    {
+      "Town05": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": 170,
+                "yaw": -90,
+                "z": 0
+              },
+              "_start_distance": "20",
+              "_actor_vel": "5",
+              "_trigger_distance": "20",
+              "_brake": "1.0"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": 65,
+                "yaw": -90,
+                "z": 0
+              },
+              "_start_distance": "10"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": -31,
+                "yaw": -90,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario40"
+        }
+      ],
+      "Town01": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 300,
+                "y": 129,
+                "yaw": 180,
+                "z": 0
+              },
+              "_start_distance": "40",
+              "_actor_vel": "6",
+              "_trigger_distance": "40",
+              "_brake": "0.1"
+            }
+          ],
+          "scenario_type": "Scenario40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "available_scenarios": [
+    {
+      "Town05": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": 170,
+                "yaw": -90,
+                "z": 0
+              },
+              "_start_distance": "15",
+              "_actor_vel": "5",
+              "_trigger_distance": "20"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": 65,
+                "yaw": -90,
+                "z": 0
+              },
+              "_actor_vel": "5",
+              "_start_distance": "15"
+            },
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 35,
+                "y": -31,
+                "yaw": -90,
+                "z": 0
+              }
+            }
+          ],
+          "scenario_type": "Scenario55"
+        }
+      ],
+      "Town04": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": -13.4,
+                "y": -187.3,
+                "yaw": 90,
+                "z": 0
+              },
+              "_start_distance": "20",
+              "_actor_vel": "5",
+              "_trigger_distance": "20",
+              "_new_steer_noise": "-0.12",
+              "_new_throttle_noise": "0.2"
+            }
+          ],
+          "scenario_type": "Scenario55"
+        }
+      ]
+    }
+  ]
+}

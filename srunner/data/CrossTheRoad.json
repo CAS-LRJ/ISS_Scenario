@@ -1,0 +1,35 @@
+{
+  "available_scenarios": [
+    {
+      "Town05": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": 0,
+                "x": 35,
+                "y": 170,
+                "yaw": -90,
+                "z": 0
+              },
+              "_start_distance": 30,
+              "_actor_vel": 3,
+              "_trigger_distance": 20,
+              "weather": {
+                "sun_altitude_angle": -6.533753516809867,
+                "precipitation": 90.42935383045943,
+                "wind_intensity": 89.27755145828856,
+                "sun_azimuth_angle": 132.4021295538381,
+                "cloudiness": 32.05220456165719,
+                "fog_density": 61.493443445256936,
+                "wetness": 60.8736825294781,
+                "precipitation_deposits": 10.442199673310137
+              }
+            }
+          ],
+          "scenario_type": "Scenario28"
+        }
+      ]
+    }
+  ]
+}

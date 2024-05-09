@@ -1,0 +1,51 @@
+{
+    "available_scenarios": [
+        {
+            "Town05": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 35,
+                                  "y": 170,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "40"
+                          },
+
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 35,
+                                  "y": 65,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "10"
+                          },
+
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 35,
+                                  "y": -31,
+                                  "yaw": -90,
+                                  "z": 0
+                              }
+                          }
+
+
+                    ],
+                      "scenario_type": "Scenario22"
+
+                }
+            ]
+
+        }
+    ]
+}

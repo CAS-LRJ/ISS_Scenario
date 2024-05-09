@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="test" type="test" town="Town01">
+        <ego_vehicle x="107" y="133.5" z="0.5" yaw="0" model="vehicle.lincoln.mkz2017"/>
+    </scenario>
+    <scenario name="FollowVehicle_1" type="FollowVehicle" town="Town01">
+        <ego_vehicle x="107" y="133" z="0.5" yaw="0" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="EmergencyBraking1" type="EmergencyBraking" town="Town01">
+        <ego_vehicle x="107" y="133" z="0.5" yaw="0" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="EmergencyBraking2" type="EmergencyBraking" town="Town01">
+        <ego_vehicle x="102" y="133" z="0.5" yaw="0" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="EmergencyBraking3" type="EmergencyBraking" town="Town01">
+        <ego_vehicle x="104" y="133" z="0.5" yaw="0" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="FollowVehicleCutoutLeft" type="FollowVehicleCutoutLeft" town="Town04">
+        <ego_vehicle x="284.4" y="16.4" z="2.5" yaw="180" model="vehicle.lincoln.mkz2017" />
+	    <other_actor x="250" y="16.4" z="5" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="FollowVehicleCutoutLeft2" type="FollowVehicleCutoutLeft" town="Town05">
+        <ego_vehicle x="35.1" y="180" z="0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="35.1" y="150" z="0" yaw="-90" model="vehicle.tesla.model3" />
+        <other_actor x="35.1" y="110" z="0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="RingRoad" type="RingRoad" town="Town03">
+        <ego_vehicle x="38.2" y="-8.2" z="0" yaw="179" model="vehicle.lincoln.mkz2017" />
+        <other_actor x="-6.6" y="-41" z="0" yaw="97" model="vehicle.tesla.model3" />
+        <other_actor x="-41.6" y="1" z="0" yaw="2" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+
+
+
+
+    <scenario name="FollowPedestrian" type="FollowPedestrian" town="Town05">
+        <ego_vehicle x="35" y="175" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="FollowPedestrian2" type="FollowPedestrian" town="Town05">
+        <ego_vehicle x="35" y="70" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="FollowPedestrian3" type="FollowPedestrian" town="Town01">
+        <ego_vehicle x="271.6" y="129" z="0" yaw="180" pitch="0.0" roll="0.0"  model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+    <scenario name="CutOut" type="CutOut" town="Town05">
+        <ego_vehicle x="35" y="175" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="CutOut2" type="CutOut" town="Town06">
+        <ego_vehicle x="4.7" y="222.2" z="0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="CutOut3" type="CutOut" town="Town05">
+        <ego_vehicle x="31" y="170" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+
+
+    <scenario name="DrivingByRoad" type="DrivingByRoad" town="Town01">
+        <ego_vehicle x="271.6" y="129" z="0" yaw="180" pitch="0.0" roll="0.0"  model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+
+    <scenario name="SignalizedJunctionLeftTurn" type="SignalizedJunctionLeftTurn" town="Town05">
+        <ego_vehicle x="35" y="120" z="0" yaw="-90" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="SignalizedJunctionLeftTurn2" type="SignalizedJunctionLeftTurn" town="Town05">
+        <ego_vehicle x="-14.6" y="84.6" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+
+    <scenario name="SignalizedJunctionRightTurn" type="SignalizedJunctionRightTurn" town="Town05">
+        <ego_vehicle x="31" y="120" z="0" yaw="-90" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+    <scenario name="SignalizedJunctionRightTurn2" type="SignalizedJunctionRightTurn" town="Town01">
+        <ego_vehicle x="180" y="129" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="noSignalJunctionCrossing" type="noSignalJunctionCrossing" town="Town01">
+        <ego_vehicle x="180" y="129" z="0" yaw="180" model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="noSignalJunctionCrossing2" type="noSignalJunctionCrossing" town="Town05">
+        <ego_vehicle x="31" y="120" z="0" yaw="-90" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="EnteringRamp" type="EnteringRamp" town="Town04">
+        <ego_vehicle x="21.4" y="-329.4" z="0" yaw="130" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+    <scenario name="MergeIntoTheMainRoad1" type="MergeIntoTheMainRoad" town="Town04">
+        <ego_vehicle x="47" y="140.8" z="0" yaw="209" model="vehicle.lincoln.mkz2017"/>
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75"/>
+    </scenario>
+
+
+
+
+
+
+
+</scenarios>

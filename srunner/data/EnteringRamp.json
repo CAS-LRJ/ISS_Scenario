@@ -1,0 +1,24 @@
+{
+  "available_scenarios": [
+    {
+      "Town04": [
+        {
+          "available_event_configurations": [
+            {
+              "transform": {
+                "pitch": "0",
+                "x": 21.4,
+                "y": -329.4,
+                "yaw": 130,
+                "z": 0
+              },
+              "_start_distance": "5",
+              "_actor_vel": "6"
+            }
+          ],
+          "scenario_type": "Scenario38"
+        }
+      ]
+    }
+  ]
+}

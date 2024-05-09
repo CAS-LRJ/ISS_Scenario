@@ -1,0 +1,76 @@
+{
+    "available_scenarios": [
+        {
+            "Town05": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 31,
+                                  "y": 160,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "5",
+                              "_actor_vel": "5",
+                              "_trigger_distance": "5"
+                          },
+
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 31,
+                                  "y": 65,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "10"
+                          },
+
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": 32.2,
+                                  "y": -30,
+                                  "yaw": -90,
+                                  "z": 0
+                              },
+                              "_start_distance": "10"
+                          }
+
+
+                    ],
+                      "scenario_type": "Scenario33"
+
+                }
+            ],
+            "Town04": [
+                {
+                    "available_event_configurations": [
+                          {
+
+                              "transform": {
+                                  "pitch": "0",
+                                  "x": -13.4,
+                                  "y": -187.3,
+                                  "yaw": 90,
+                                  "z": 0
+                              },
+                              "_start_distance": "21",
+                              "_actor_vel": "5",
+                              "_trigger_distance": "20"
+                          }
+
+                    ],
+                      "scenario_type": "Scenario33"
+
+                }
+            ]
+
+        }
+    ]
+}

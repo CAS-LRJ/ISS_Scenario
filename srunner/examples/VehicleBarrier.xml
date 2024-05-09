@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="VehicleBarrier" type="VehicleBarrier" town="Town05">
+        <ego_vehicle x="35" y="60" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+     <scenario name="VehicleBarrier2" type="VehicleBarrier" town="Town01">
+        <ego_vehicle x="271.6" y="129" z="0" yaw="180" pitch="0.0" roll="0.0"  model="vehicle.tesla.model3" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="VehicleBarrier3" type="VehicleBarrier" town="Town04">
+        <ego_vehicle x="-53.1" y="378.9" z="0" pitch="0.0" roll="0.0" yaw="-42" model="vehicle.tesla.model3" rolename="hero"/>
+    </scenario>
+</scenarios>

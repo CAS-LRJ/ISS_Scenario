@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scenarios>
+
+    <scenario name="RightMotorsTurnRGoStraight1" type="RightMotorsTurnRGoStraight" town="Town04">
+        <ego_vehicle x="216.9" y="-246.1" z="1" yaw="0" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+    <scenario name="RightMotorsTurnRGoStraight2" type="RightMotorsTurnRGoStraight" town="Town05">
+        <ego_vehicle x="35.2" y="130" z="0" pitch="0.0" roll="0.0" yaw="-90" model="vehicle.lincoln.mkz2017" />
+    </scenario>
+</scenarios>
